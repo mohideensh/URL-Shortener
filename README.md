@@ -1,8 +1,8 @@
 URL shortner
 This is simple URL shortner application using Bitly.
 
-REQUIREMENTS:
-PHP, Curl
+<strong>REQUIREMENTS:<strong>
+PHP, Curl, jQuery
 
-DEMO:
+<strong>DEMO:<strong>
 http://www.mohideen-sh.com/bitly
